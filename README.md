@@ -1,13 +1,5 @@
 # Customer Churn Prediction in Telecom Industry
 
-### Course: Machine Learning (UE23CS352A)
-
-### Team Members
-- **Poojitha C V** (PES2UG23CS415)  
-- **Podamala Pragna** (PES2UG23CS411)
-
----
-
 ##  Project Overview
 
 Customer churn happens when a customer stops using a company’s service. In the telecom industry, this directly affects revenue and customer retention strategies.  
